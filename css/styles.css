@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+body{
+  background: #1db4e3;
+  font-family: 'Righteous', cursive;
+  font-size: 2em;
+  text-align:center;
+}
+
+h1{
+  font-size: 4em;
+  text-align: center;
+}
+
+form{
+  background: #ffffff;
+  padding: 1em;
+}
